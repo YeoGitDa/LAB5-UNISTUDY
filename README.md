@@ -231,9 +231,7 @@ AI has revolutionized industries through automation and data insights, while mac
 
 ## 📞 문의 및 지원
 
-- **개발자**: AI 학습 도구 개발팀
-- **버전**: v2.0.0
-- **업데이트**: 2024년 12월
+- **업데이트**: 2025년 09월
 
 ---
 
